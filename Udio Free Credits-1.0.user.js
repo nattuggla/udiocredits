@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Automatically submits timed keystrokes to activate/listen to the examples on the feedback page, submit a vote on example A, and proceeding to the next.
 // @author       nattuggla
+// @license      GPL3
 // @match        https://www.udio.com/feedback
 // @grant        none
 // @run-at       document-idle
